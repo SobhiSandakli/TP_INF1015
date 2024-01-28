@@ -1,0 +1,68 @@
+Nom du jeu: Chrono Trigger
+Année de sortie: 1995
+Developpeur: Square
+
+Nom du jeu: Final Fantasy VI (III en Amérique)
+Année de sortie: 1994
+Developpeur: Square
+
+Nom du jeu: Secret of Mana
+Année de sortie: 1993
+Developpeur: Square
+
+Nom du jeu: Super Mario Bros
+Année de sortie: 1985
+Developpeur: Nintendo
+
+Nom du jeu: The Legend of Zelda
+Année de sortie: 1986
+Developpeur: Nintendo
+
+Nom du jeu: Metroid
+Année de sortie: 1986
+Developpeur: Nintendo
+
+Nom du jeu: Pokémon Red & Blue
+Année de sortie: 1998
+Developpeur: Game Freak
+
+Nom du jeu: Minecraft
+Année de sortie: 2011
+Developpeur: Mojang
+
+Nom du jeu: World of Warcraft
+Année de sortie: 2004
+Developpeur: Blizzard Entertainment
+
+Nom du jeu: Castlevania: Symphony of the Night
+Année de sortie: 1997
+Developpeur: Konami
+
+Nom du jeu: The Sims
+Année de sortie: 2000
+Developpeur: Maxis
+
+Nom du jeu: SimCity
+Année de sortie: 1989
+Developpeur: Maxis
+
+Nom du jeu: Metal Gear Solid
+Année de sortie: 1998
+Developpeur: Konami
+
+Nom du jeu: Half-Life
+Année de sortie: 1998
+Developpeur: Valve
+
+Nom du jeu: Civilization
+Année de sortie: 1991
+Developpeur: MicroProse
+
+Nom du jeu: Sonic the Hedgehog
+Année de sortie: 1991
+Developpeur: Sega
+
+Nom du jeu: Dark Souls
+Année de sortie: 2011
+Developpeur: FromSoftware
+
